@@ -1,9 +1,9 @@
 # 8-1-Journal-Portfolio Noah Pohl CS210 
 This project involved creating a user interface for a clock
 
-## Summarize the project and what problem it was solving.
+### Summarize the project and what problem it was solving.
 
-## What did you do particularly well?
+### What did you do particularly well?
 
 ## Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 
